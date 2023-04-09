@@ -43,6 +43,7 @@
 
 
 ## Editor 
+
 *	  Editor in the journal of ICT Express, Elsevier, Impact Factor: 4.317, Indexed in Science Citation Index Expanded, Scopus, Emerging Sources Citation Index, ISSN: 2405-9595. 
 
 
