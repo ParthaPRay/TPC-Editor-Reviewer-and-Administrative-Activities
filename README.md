@@ -69,6 +69,7 @@
 
 ### Administration
 
+*	Judge of Debate Competition of SUSA: Judge of debate competition on “This House Rejects Artificial Intelligence Genitaled Art” organized by SUSA< Sikkim University, April 13, 2013.
 *	Member of IEEE Technical Committee: Member of IEEE IEEE CTSoc Internet of Things (IoT) Technical Committee (TC) IEEE CTSoc, 2023 -.
 *	Member of Working Committee: Nominated by the Vice Chancellor of Sikkim University as the Admission Working Committee member to see in admission process at Sikkim University, 2023.
 *	Member of Technical Committee: Nominated by the Vice Chancellor of Sikkim University as the SWAYAM member to review MOOC courses in department of Computer Applications at Sikkim University, 2022-.
