@@ -2,7 +2,9 @@
 
 ## Conference Technical Committee Member 
 
-*	Technical Program Committee Member in 2021 ICNBST 2021 from 2-4 December, 2021, Kolkata,  India.
+*	Technical Program Committee Member in 2023 IEEE CTSoc Gaming, Entertainment and Media (GEM) 2023 from 19-22 November, 2023, Barbados.
+*	Technical Program Committee Member in 2023 IEEE 13TH International Conference on Consumer Technology (ICCE) 2023 from 2-5 September, 2023, City Cube,  MEsse Barlin (IFA).
+*	Technical Program Committee Member in 2021 Springer ICNBST 2021 from 2-4 December, 2021, Kolkata,  India.
 *	Technical Program Committee Member in 2021 45th IEEE COMPSAC-2021 from 12-16 July, 2021, USA.
 *	Technical Program Committee Member in 2021 10th International Conference on Communication Systems and Network Technologies (CSNT-2021) from 24-25 April, 2021, Bhopal, India.
 *	Technical Program Committee Member in 2020 1st International Conference on Artificial Intelligence & Modern Assistive Technology (ICAIMAT’ 2020) from 24-26 September, 2020, Riyadh, Saudi Arabia.
@@ -70,7 +72,7 @@
 ### Administration
 
 *	Judge of Debate Competition of SUSA: Judge of debate competition on “This House Rejects Artificial Intelligence Genitaled Art” organized by SUSA< Sikkim University, April 13, 2013.
-*	Member of IEEE Technical Committee: Member of IEEE IEEE CTSoc Internet of Things (IoT) Technical Committee (TC) IEEE CTSoc, 2023 -.
+*	Member of IEEE Technical Committee: Member of IEEE IEEE CTSoc Internet of Things (IoT) Technical Committee (TC) IEEE CTSoc, 2023 working as Acamic Liaison officer.
 *	Member of Working Committee: Nominated by the Vice Chancellor of Sikkim University as the Admission Working Committee member to see in admission process at Sikkim University, 2023.
 *	Member of Technical Committee: Nominated by the Vice Chancellor of Sikkim University as the SWAYAM member to review MOOC courses in department of Computer Applications at Sikkim University, 2022-.
 *	Member of Technical Committee: Nominated by the Vice Chancellor of Sikkim University as the member of technical committee to review all lab equipment in all departments at Sikkim University, 2022-.
