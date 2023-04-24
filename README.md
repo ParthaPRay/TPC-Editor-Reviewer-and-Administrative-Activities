@@ -46,12 +46,13 @@
 
 ## Editor 
 
-* Editor in the journal of ICT Express, Elsevier, Impact Factor: 4.317, Indexed in Science Citation Index Expanded, Scopus, Emerging Sources Citation Index, ISSN: 2405-9595. 
+* Editor in the journal of ICT Express, Elsevier, Impact Factor: 4.317, Indexed in Science Citation Index Expanded, Scopus, Emerging Sources Citation Index, ISSN: 2405-9595, 2020-21. 
 
 
 
 ## Guest Editor/Reviewer /Advisory
 
+*	Workshop Chair on "Designing Metaverse using Next Generation Internet of Things" in the The 2nd International Conference on Computing, Communication, Perception and Quantum Technology (CCPQT 2023), August 4-7, 2023, Xiamen, China.
 *	Lead Guest Editor in Special issue on “Security and Computing on IoT”, Computers, Materials & Continua, Science Citation Index Expanded, Impact Factor 3.024, along with Dr. Nour Moustafa, The University of New South Wales, Australia and Kien Nguyen, Chiba University, Japan, 2020-2021.
 *	Guest Editor in Special issue on “Blockchain and IoT Enabled Sensing for Smart City”, MDPI Journal: Sensors, Science Citation Index Expanded, Impact Factor 3.031, along with Vidyasagar Potdar, Curtin University, Australia 2018-2019.
 *	Advisory Board Member of the European Union project DewSyS: Dew-Oriented Platform for Cyber-Physical Systems of Systems, 2019.
