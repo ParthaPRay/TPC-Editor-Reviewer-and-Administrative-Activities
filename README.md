@@ -2,6 +2,7 @@
 
 ## Conference Technical Committee Member 
 
+*	Technical Program Committee Member in The International Conference on Foundation and Large Language Models (FLLM2023) from 13-14 December, 2023, Dubai, UAE.
 *	Technical Program Committee Member in 22nd IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology from 26-29 October, 2023, Venice, Italy.
 *	Technical Program Committee Member in 2023 IEEE CTSoc Gaming, Entertainment and Media (GEM) 2023 from 19-22 November, 2023, Barbados.
 *	Technical Program Committee Member in 2023 IEEE 13TH International Conference on Consumer Technology (ICCE) 2023 from 2-5 September, 2023, City Cube,  MEsse Barlin (IFA).
