@@ -2,6 +2,7 @@
 
 ## Conference Technical Committee Member 
 
+* Technical Program Committee Member in The IEEE International Conference on Consumer Electronics (IEEE ICCE-TW) 2024 from 9-11 July 2024, Taichung, Taiwan.
 * Technical Program Committee Member in The 1st International Conference on Environment and Smart Education (ICENSE) 2024 from 7-8 AUGUST 2024, UNIVERSITAS MUHAMMADIYAH YOGYAKARTA, INDONESIA. 
 *	Technical Program Committee Member in The International Conference on Foundation and Large Language Models (FLLM2023) from 13-14 December, 2023, Dubai, UAE.
 *	Technical Program Committee Member in 22nd IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology from 26-29 October, 2023, Venice, Italy.
